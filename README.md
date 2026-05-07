@@ -11,5 +11,5 @@ Ce projet présente une fonction de hachage unique développée en Python. L'obj
 ## Installation
 Assurez-vous d'avoir Python installé sur votre machine.
 ```bash
-git clone [https://github.com/TonPseudo/hachage-kapuaya.git](https://github.com/TonPseudo/hachage-kapuaya.git)
+git clone [https://github.com/Romainpro390/hachage-kapuaya.git)
 cd hachage-kapuaya
